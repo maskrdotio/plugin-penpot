@@ -1,0 +1,12 @@
+{
+  "name": "Maskr.io",
+  "description": "AI-powered background removal for Penpot",
+  "code": "https://maskrdotio.github.io/plugin-penpot/plugin.js",
+  "icon": "https://maskrdotio.github.io/plugin-penpot/icon.png",
+  "permissions": [
+    "content:read",
+    "content:write",
+    "user:read",
+    "allow:downloads"
+  ]
+}
